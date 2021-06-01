@@ -50,7 +50,7 @@ traitlets==4.3.2
 Twisted==16.0.0
 unity-lens-photos==1.0
 urllib==1.21.1
-urllib3==1.22
+urllib3==1.26.5
 w3lib==1.18.0
 wcwidth==0.1.7
 zope.interface==4.1.3
